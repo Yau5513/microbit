@@ -1,11 +1,13 @@
 {
-    "name": "micro:bit",
+    "name": "micro:bit 3",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.1"
+        "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.1",
+        "servo": "*",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.2.0"
     },
     "files": [
         "main.blocks",
